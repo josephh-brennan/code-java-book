@@ -10,6 +10,7 @@ This repository contains exercise implementations from the book "Core Java for t
 ## Book Information
 
 This project contains implementations of exercises and examples from:
+
 - Book: Core Java for the Impatient
 - Focus: Modern Java development using Java 21 features
 
