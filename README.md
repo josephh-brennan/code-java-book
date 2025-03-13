@@ -34,7 +34,7 @@ mvn test
 To run the main class:
 
 ```bash
-mvn exec:java -Dexec.mainClass="com.example.Main"
+mvn exec:java -Dexec.mainClass="com.core.java.Main"
 ```
 
 ## Project Structure
